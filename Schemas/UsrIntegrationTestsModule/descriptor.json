@@ -1,0 +1,9 @@
+﻿{
+	"Descriptor": {
+		"UId": "71f7e938-553b-47ff-95c0-a60025f46235",
+		"Name": "UsrIntegrationTestsModule",
+		"ModifiedOnUtc": "/Date(1627636742000)/",
+		"ManagerName": "ClientUnitSchemaManager",
+		"Caption": "IntegrationTestsModule"
+	}
+}
